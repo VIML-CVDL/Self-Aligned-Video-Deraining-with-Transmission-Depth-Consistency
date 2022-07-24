@@ -1,6 +1,6 @@
 # Self-Aligned-Video-Deraining-with-Transmission-Depth-Consistency
-Self-Aligned Video Deraining with Transmission-Depth Consistency
 
+```
 @inproceedings{yan2021self,
   title={Self-aligned video deraining with transmission-depth consistency},
   author={Yan, Wending and Tan, Robby T and Yang, Wenhan and Dai, Dengxin},
@@ -8,3 +8,4 @@ Self-Aligned Video Deraining with Transmission-Depth Consistency
   pages={11966--11976},
   year={2021}
 }
+```
